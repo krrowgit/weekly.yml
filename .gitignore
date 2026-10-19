@@ -1,0 +1,11 @@
+.edge-*/
+data.preview.*
+data.test.js
+switch-test.html
+debug.html
+debug2.html
+preview.html
+filter-test.html
+node_modules/
+.DS_Store
+Thumbs.db
